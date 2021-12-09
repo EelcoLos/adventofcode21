@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day-1-convert-to-file-scoped-namespaces-using-editorconfig", "day-1-convert-to-file-scoped-namespaces-using-editorconfig\day-1-convert-to-file-scoped-namespaces-using-editorconfig.csproj", "{CF1E70D4-1B1A-4612-90F0-A735D9095494}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF1E70D4-1B1A-4612-90F0-A735D9095494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF1E70D4-1B1A-4612-90F0-A735D9095494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF1E70D4-1B1A-4612-90F0-A735D9095494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF1E70D4-1B1A-4612-90F0-A735D9095494}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4427A2B3-6F8D-4219-986C-1302CB620832}
+	EndGlobalSection
+EndGlobal
