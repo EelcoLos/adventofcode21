@@ -12,11 +12,11 @@
 Advent of Code 2021 is a series of [advent calendar](https://dotnet.christmas/2021) puzzles of dotnet.
 
 ## Getting Started <a name = "getting_started"></a>
-⚠️work in progress
+⚠️ Work in progress
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-⚠️work in progress
+⚠️ Work in progress
 What things you need to install the software and how to install them.
 
 ```
@@ -25,7 +25,7 @@ Give examples
 
 ### Installing
 
-⚠️work in progress
+⚠️ Work in progress
 
 A step by step series of examples that tell you how to get a development env running.
 
